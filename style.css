@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+    max-width:200px;
+    top: 30vh;
+    left: 30vw;
+}
+
+/* span {
+    text-align: center;
+} */
+
+@media only screen and (max-width:576px) {
+    h1 {
+        font-size: 60px;
+        top: 30vh;
+        left: 15vw;
+    }
+}
